@@ -1,0 +1,6 @@
+Flask Start >
+
+*python -m flask
+*set FLASK_APP=sample.py
+*set FLASK_DEBUG=1
+*flask run
